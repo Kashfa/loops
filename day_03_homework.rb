@@ -1,3 +1,6 @@
+
+# homework
+
 stops = ["Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
 
 # Add "Edinburgh Waverley" to the end of the array
